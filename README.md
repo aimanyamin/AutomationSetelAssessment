@@ -4,7 +4,7 @@ Setel Assessment for Web Automation task
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Platform: Windows](#platform:-Windows)
+* [Platform: Windows](#platform:-windows)
 
 ## General info
 This project is a simple web automation task. AutomationSetelAssessment is used to Automate search product in 2 E-commerce website and sort the product in ascending order.
