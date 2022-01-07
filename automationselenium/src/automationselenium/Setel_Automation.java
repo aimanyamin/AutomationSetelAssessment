@@ -162,7 +162,7 @@ public class Setel_Automation {
 					}
 				}
 			}
-		}
+		} 
 		
 		System.out.println("This is sorted products: " + "\n");
 		for (int i = 1; i < map_final_All_products.size()+1; i++) {
