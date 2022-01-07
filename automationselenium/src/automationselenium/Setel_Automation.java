@@ -161,7 +161,7 @@ public class Setel_Automation {
 						sorted = false; 
 					}
 				}
-			}
+			}//change test branch
 		}
 		
 		System.out.println("This is sorted products: " + "\n");
